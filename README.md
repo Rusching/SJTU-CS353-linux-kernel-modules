@@ -1,5 +1,5 @@
 # LinuxKernelModule
-In this project there are some trivial linux kernel moudle to help realizing the module programming. Four simple modules show the basic structure of a kernel module, how to accept parameters from the user, and the simple use of the proc file system. Can be used as an introduction to kernel module programming
+In this project there are some trivial linux kernel moudles to help realizing the module programming. Four simple modules show the basic structure of a kernel module, how to accept parameters from the user, and the simple use of the proc file system. Can be used as an introduction to kernel module programming
 ## Contents
 Module 1 is a simplest kernel module which printed prompt information can be viewed by `dmesg`.
 

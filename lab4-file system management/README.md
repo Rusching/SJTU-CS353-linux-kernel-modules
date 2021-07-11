@@ -1,4 +1,4 @@
-# lab file system management
+# lab4 file system management
 
 ## Contents
 This module is written based on the `/fs/romfs` file system, and can receive 3 kinds of parameters:

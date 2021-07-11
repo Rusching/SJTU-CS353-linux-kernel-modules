@@ -7,6 +7,7 @@ This project consists of five parts:
 * memory management
 * file system management
 * system call hook
+
 Further details are described in the respective directories.
 
 Have fun and enjoy (ゝ∀･)
